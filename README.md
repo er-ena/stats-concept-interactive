@@ -1,1 +1,2 @@
-Making fuckass concepts easier for the brain.
+Running but still working on it:
+https://erena.shinyapps.io/hypothesis-testing/
